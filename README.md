@@ -4,7 +4,7 @@ A physician-built safety check for AI-written explanations of lab results.
 
 Consumer health companies increasingly use AI to explain blood test results to members. Those explanations can be fluent and still be wrong in ways that matter: a critical potassium called "slightly elevated," a genetic marker treated as diet-responsive, a healthy person told five values are abnormal. LabProof is a set of synthetic cases for practicing, and measuring, the clinical review those explanations need before they reach a member.
 
-**Live demo:** _add your GitHub Pages link here_
+**Live demo:** richkat111.github.io/LabProof
 
 ## How it works
 
